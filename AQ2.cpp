@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 
-#define MAX 100
-
 int arr[MAX], n;
 
 void inputArray() {
